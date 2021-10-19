@@ -6,6 +6,15 @@
 
 - The server will manipulating the synchronized bank's database corresponding by the message received from client.
 
+- Features Support:
+    - Synchronized database
+    - Create unique accounts
+    - Retrive an account in the synchronized DB
+    - Deposit to an account
+    - WithDraw from an account
+
+- This main funcationality for this system has been completed, but the client side (front-end) is still consol based application. 
+
 #### Programming Stack:
 - Java (Server)
 - Perl & Python (Client)
