@@ -1,5 +1,5 @@
 // ----------------------------------------------
-//    REMARK: SevMT.java
+//    REMARK: 
 //	- This is the stream server code which accepts connections from clients
 //	  and echos the response message sent over the connection to the screen until
 //	  a E is received over the connection. The server support mutiple threads, which 
