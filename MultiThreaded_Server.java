@@ -86,8 +86,8 @@ public class SevMT{
 class myThread implements Runnable {
 
     Socket cliSock = null;  // socket for each client
-							// *** This is instantiated per client whenever
-							// a new Thread is create
+    // *** This is instantiated per client whenever
+    // a new Thread is create
     String DBName;
     String userID;
     String userPw;
@@ -324,14 +324,14 @@ class myThread implements Runnable {
 	}//end processOperation
 
 
-	 //---------------------------------
+    //---------------------------------
     //	Create account
     //---------------------------------
 	public static synchronized void CreateAcc(String [] reqSplit,  Connection con, OutputStream out)
 	{
-		 //check if account is already exit
-		Statement st = null;
-		String ecoMsg = "";
+            //check if account is already exit
+	    Statement st = null;
+	    String ecoMsg = "";
 	    boolean validAcc =true;
 	    int accN = Integer.parseInt(reqSplit[1]);
 		try
