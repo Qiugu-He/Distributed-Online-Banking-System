@@ -56,8 +56,8 @@ public class SevMT{
 class myThread implements Runnable {
 
     Socket cliSock = null;  // socket for each client
-							// *** This is instantiated per client whenever
-							// a new Thread is created
+    // *** This is instantiated per client whenever
+    // a new Thread is created
 
    private static Hashtable <String, Integer>table = new Hashtable<String, Integer>();
 
