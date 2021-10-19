@@ -8,12 +8,10 @@
 
 - Features Support:
     - Synchronized database
-    - Create unique accounts
+    - Create unique accounts to server
     - Retrive an account in the synchronized DB
-    - Deposit to an account
+    - Deposit to an account in server
     - WithDraw from an account
-
-- This main funcationality for this system has been completed, but the client side (front-end) is still consol based application. 
 
 #### Programming Stack:
 - Java (Server)
