@@ -1,11 +1,7 @@
 # ----------------------------------------------
-# STUDENT NAME: Qiugu He
-# STUDENT NUMBER: 7768346
-# COURSE NAME: COMP3010 
-# ASSIGNMENT: A2
 # REMARK: CliPy.py
 #	- python implemented client. Get request from stdin
-#     then send and receive messgaes to/from server for 
+#       - then send and receive messgaes to/from server for 
 #	  communivation.
 # -----------------------------------------------
 
