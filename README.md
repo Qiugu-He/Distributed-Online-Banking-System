@@ -8,8 +8,8 @@
 
 - Features Support:
     - Synchronized database
-    - Create unique accounts to server
-    - Retrive an account in the synchronized DB
+    - Creating unique accounts to server
+    - Retriving an account in the synchronized DB
     - Deposit to an account in server
     - WithDraw from an account
 
