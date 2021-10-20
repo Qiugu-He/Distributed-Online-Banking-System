@@ -1,6 +1,6 @@
 ### Distributed-Online-Banking-System
 
--  The bank System is consisted by a stream server which accepts connections from clients and by a security code adn echo a response message back to client over the TCP connection.
+- The bank System is consisted by a stream server which accepts connections from clients and by a security code echo a response message back to client over the TCP connection.
 
 - The server support multiple threads, which allows the multiple client connection to the server. 
 
